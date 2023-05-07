@@ -1,0 +1,235 @@
+	**** PUNTO 1 ****
+
+Cereal  País      Naviera      Peso    Compras
+----------------------------------------------
+Maiz    China     MSC          49.45     1
+Trigo   China     Evergreen     9.21     2
+Trigo   Rusia     Maersk       19.42     3
+Maiz    Rusia     Evergreen    48.65     3
+Avena   Alemania  MSC          44.75     1
+Trigo   Rusia     MSC          34.96     5
+Trigo   Alemania  Maersk       37.07     3
+Trigo   Alemania  Evergreen    18.24     5
+Avena   Rusia     Evergreen    50.11     3
+Maiz    China     Maersk       29.94     4
+Trigo   Rusia     Evergreen    35.64     2
+Avena   Rusia     Evergreen    28.01     4
+Maiz    Rusia     MSC          28.29     3
+Avena   Alemania  MSC          25.70     3
+Avena   Rusia     Maersk       59.08     5
+Trigo   Alemania  MSC          29.15     3
+Maiz    China     Maersk       49.12     5
+Maiz    Rusia     Evergreen    15.42     0
+Avena   China     Maersk       42.97     0
+Trigo   China     MSC           9.33     4
+Avena   China     Evergreen    56.53     1
+Trigo   Alemania  Maersk       34.29     5
+Trigo   China     Evergreen    28.60     2
+Avena   Alemania  MSC          40.40     0
+Trigo   Rusia     Evergreen    59.34     3
+Trigo   China     MSC          48.89     0
+Avena   China     Evergreen    11.31     5
+Maiz    Rusia     Maersk       34.12     1
+Avena   Alemania  Evergreen    30.64     1
+Avena   Alemania  MSC          41.20     1
+Trigo   Rusia     Maersk       23.36     5
+Avena   Alemania  Evergreen    58.44     1
+Trigo   Alemania  Maersk        9.24     1
+Avena   Alemania  Maersk       33.92     0
+Avena   Alemania  Maersk       53.56     1
+Trigo   China     Maersk       26.77     2
+Avena   China     Maersk       44.09     3
+Trigo   Alemania  Maersk       11.24     2
+Maiz    China     Maersk       22.12     0
+Maiz    China     Evergreen    54.26     5
+Maiz    China     Evergreen    50.77     3
+Avena   Rusia     Maersk       51.85     4
+Avena   China     MSC          47.98     4
+Avena   Rusia     Maersk       25.27     4
+Trigo   China     MSC          14.36     3
+Maiz    Alemania  MSC          15.10     4
+Avena   Alemania  MSC          53.60     5
+Maiz    Alemania  Evergreen    22.91     2
+Trigo   Rusia     MSC          57.71     2
+Avena   China     MSC          54.31     2
+Maiz    China     MSC          16.80     2
+Trigo   China     Evergreen    16.14     0
+Trigo   Rusia     Maersk       26.32     5
+Maiz    Rusia     Maersk       13.72     3
+Avena   Alemania  MSC          32.36     3
+Trigo   Rusia     MSC          18.70     5
+Maiz    China     Evergreen    38.54     1
+Maiz    Alemania  Evergreen    33.65     3
+Trigo   Rusia     Evergreen    41.99     4
+Maiz    Alemania  MSC          15.34     2
+Avena   Rusia     MSC          16.53     3
+Trigo   Rusia     Evergreen    11.54     0
+Maiz    Alemania  MSC          32.46     0
+Avena   China     Evergreen    29.99     3
+Trigo   China     MSC          26.01     4
+Avena   China     Evergreen    30.89     4
+Maiz    Rusia     MSC          11.37     2
+Trigo   Rusia     MSC          36.55     0
+Avena   Rusia     Maersk       32.14     3
+Maiz    China     Maersk       24.30     3
+Avena   China     Maersk       33.13     3
+Avena   China     Maersk       49.77     5
+Avena   Rusia     MSC          39.43     3
+Trigo   Alemania  Evergreen    42.41     1
+Maiz    Alemania  MSC          12.84     5
+Trigo   Alemania  MSC          14.71     0
+Maiz    China     Evergreen    31.92     0
+Avena   Alemania  Maersk       17.94     4
+Trigo   Alemania  Maersk       10.91     3
+Trigo   China     Evergreen    58.28     2
+Trigo   Rusia     MSC          25.53     1
+Avena   China     Evergreen    44.10     4
+Trigo   Rusia     MSC          38.92     1
+Maiz    Rusia     MSC          59.79     2
+Trigo   China     Evergreen    29.63     5
+Trigo   Rusia     Maersk       36.89     0
+Avena   Rusia     Evergreen    10.25     5
+Trigo   Alemania  Evergreen    53.22     5
+Trigo   China     Evergreen    46.87     3
+Avena   Rusia     MSC          39.98     1
+
+	**** PUNTO 2 ****
+
+País      Cereal     Peso
+------------------------- 
+Alemania  Avena      53.60
+Alemania  Avena      17.94
+Alemania  Maiz       15.10
+Alemania  Maiz       12.84
+Alemania  Trigo      18.24
+Alemania  Trigo      34.29
+Alemania  Trigo      53.22
+China     Avena      11.31
+China     Avena      47.98
+China     Avena      30.89
+China     Avena      49.77
+China     Avena      44.10
+China     Maiz       29.94
+China     Maiz       49.12
+China     Maiz       54.26
+China     Trigo       9.33
+China     Trigo      26.01
+China     Trigo      29.63
+Rusia     Avena      28.01
+Rusia     Avena      59.08
+Rusia     Avena      51.85
+Rusia     Avena      25.27
+Rusia     Avena      10.25
+Rusia     Trigo      34.96
+Rusia     Trigo      23.36
+Rusia     Trigo      26.32
+Rusia     Trigo      18.70
+Rusia     Trigo      41.99
+
+	**** PUNTO 3 ****
+
+Evergreen - Peso Total: 1097.50 - Cantidad Compras: 82 - Promedio: 13.38
+
+País   Cantidad
+---------------
+China        2
+Rusia        3
+Alemania     5
+Rusia        3
+Rusia        2
+Rusia        4
+Rusia        0
+China        1
+China        2
+Rusia        3
+China        5
+Alemania     1
+Alemania     1
+China        5
+China        3
+Alemania     2
+China        0
+China        1
+Alemania     3
+Rusia        4
+Rusia        0
+China        3
+China        4
+Alemania     1
+China        0
+China        2
+China        4
+China        5
+Rusia        5
+Alemania     5
+China        3
+
+MSC - Peso Total: 1032.50 - Cantidad Compras: 75 - Promedio: 13.77
+
+País   Cantidad
+---------------
+China        1
+Alemania     1
+Rusia        5
+Rusia        3
+Alemania     3
+Alemania     3
+China        4
+Alemania     0
+China        0
+Alemania     1
+China        4
+China        3
+Alemania     4
+Alemania     5
+Rusia        2
+China        2
+China        2
+Alemania     3
+Rusia        5
+Alemania     2
+Rusia        3
+Alemania     0
+China        4
+Rusia        2
+Rusia        0
+Rusia        3
+Alemania     5
+Alemania     0
+Rusia        1
+Rusia        1
+Rusia        2
+Rusia        1
+
+Maersk - Peso Total: 852.55 - Cantidad Compras: 77 - Promedio: 11.07
+
+País   Cantidad
+---------------
+Rusia        3
+Alemania     3
+China        4
+Rusia        5
+China        5
+China        0
+Alemania     5
+Rusia        1
+Rusia        5
+Alemania     1
+Alemania     0
+Alemania     1
+China        2
+China        3
+Alemania     2
+China        0
+Rusia        4
+Rusia        4
+Rusia        5
+Rusia        3
+Rusia        3
+China        3
+China        3
+China        5
+Alemania     4
+Alemania     3
+Rusia        0
+

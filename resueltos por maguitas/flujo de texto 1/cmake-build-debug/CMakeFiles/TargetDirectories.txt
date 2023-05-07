@@ -1,0 +1,3 @@
+D:/clion/flujo de texto 1/cmake-build-debug/CMakeFiles/flujo_de_texto_1.dir
+D:/clion/flujo de texto 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/flujo de texto 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

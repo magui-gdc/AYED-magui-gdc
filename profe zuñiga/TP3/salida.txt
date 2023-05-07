@@ -1,0 +1,250 @@
+Acción    Plazo Bolsa           Pre.Un.  Cant.
+----------------------------------------------
+Fedex        2  NYSE            171.72    493
+Honda        1  Tokyo SE        129.69    530
+Fedex        3  NYSE            165.36    247
+Cisco        1  Nasdaq          217.33    667
+Adobe        3  Nasdaq           83.66    322
+Bayer        0  Frankfurt WB     89.25   1114
+Adobe        1  Nasdaq           77.43    742
+3M           3  NYSE             63.05   1029
+Coca Cola    3  NYSE            287.04    818
+Bayer        0  Frankfurt WB     89.25    675
+Toyota       1  Tokyo SE        188.32    181
+Microsoft    0  Nasdaq          105.00    506
+Daimler      0  Frankfurt WB    181.90    903
+Alphabet     2  Nasdaq          189.14    267
+Coca Cola    3  NYSE            273.24    527
+Basf         1  Frankfurt WB    197.80    781
+Keyence      3  Tokyo SE        212.55    982
+Mitsubishi   1  Tokyo SE        147.58   1146
+AT&T         1  NYSE            213.35   1126
+Danone       1  Frankfurt WB    137.28    395
+3M           3  NYSE             59.15     19
+Adobe        2  Nasdaq           80.99    787
+Microsoft    2  Nasdaq          113.40    835
+Alphabet     3  Nasdaq          185.28   1158
+3M           2  NYSE             58.50    699
+Toyota       2  Tokyo SE        199.02   1086
+Apple        0  Nasdaq          164.00    711
+Bayer        1  Frankfurt WB    110.25    560
+Basf         3  Frankfurt WB    200.10    839
+3M           0  NYSE             68.90    632
+Keyence      3  Tokyo SE        181.35     68
+Alphabet     1  Nasdaq          183.35    765
+Mitsubishi   1  Tokyo SE        164.85    693
+Apple        2  Nasdaq          162.36    403
+Bayer        0  Frankfurt WB     90.30   1115
+Microsoft    2  Nasdaq          110.25    639
+Honda        3  Tokyo SE        121.83   1149
+Microsoft    2  Nasdaq           95.55    458
+Danone       1  Frankfurt WB    148.72    445
+Honda        0  Tokyo SE        132.31    296
+Adobe        2  Nasdaq           89.89    774
+Cisco        0  Nasdaq          198.34   1031
+Amazon       0  NYSE            316.80    846
+Mitsubishi   1  Tokyo SE        133.45     30
+Apple        1  Nasdaq          170.56    857
+Keyence      3  Tokyo SE        200.85    605
+Keyence      3  Tokyo SE        195.00    815
+Coca Cola    3  NYSE            270.48    314
+Adobe        3  Nasdaq           75.65    188
+Alphabet     3  Nasdaq          193.00    294
+Basf         0  Frankfurt WB    239.20    793
+Basf         0  Frankfurt WB    216.20    955
+Daimler      0  Frankfurt WB    203.30   1037
+Basf         2  Frankfurt WB    225.40    106
+Toyota       2  Tokyo SE        186.18    526
+AT&T         2  NYSE            273.59    429
+Danone       3  Frankfurt WB    131.56    850
+Daimler      2  Frankfurt WB    235.40    399
+Cisco        2  Nasdaq          229.99     24
+AT&T         3  NYSE            263.55    596
+Amazon       1  NYSE            310.40    621
+Toyota       0  Tokyo SE        214.00    265
+Amazon       2  NYSE            352.00     94
+Cisco        1  Nasdaq          181.46    389
+Fedex        3  NYSE            139.92    358
+Danone       3  Frankfurt WB    147.29    608
+Daimler      3  Frankfurt WB    228.98    172
+Amazon       0  NYSE            281.60    702
+Honda        0  Tokyo SE        134.93    402
+
+Listado:
+
+Plazo: CI, Cantidad de Operaciones: 16
+
+Bolsa           Monto
+Frankfurt WB  1031587.12
+
+Acción      Cant.
+-----------------
+Bayer        1114
+Bayer         675
+Daimler       903
+Bayer        1115
+Basf          793
+Basf          955
+Daimler      1037
+
+Bolsa           Monto
+NYSE           509240.81
+
+Acción      Cant.
+-----------------
+3M            632
+Amazon        846
+Amazon        702
+
+Bolsa           Monto
+Nasdaq         374222.53
+
+Acción      Cant.
+-----------------
+Microsoft     506
+Apple         711
+Cisco        1031
+
+Bolsa           Monto
+Tokyo SE       150115.61
+
+Acción      Cant.
+-----------------
+Honda         296
+Toyota        265
+Honda         402
+
+
+Plazo: 24Hs, Cantidad de Operaciones: 16
+
+Bolsa           Monto
+Frankfurt WB   336627.78
+
+Acción      Cant.
+-----------------
+Basf          781
+Danone        395
+Bayer         560
+Danone        445
+
+Bolsa           Monto
+NYSE           432990.50
+
+Acción      Cant.
+-----------------
+AT&T         1126
+Amazon        621
+
+Bolsa           Monto
+Nasdaq         559432.81
+
+Acción      Cant.
+-----------------
+Cisco         667
+Adobe         742
+Alphabet      765
+Apple         857
+Cisco         389
+
+Bolsa           Monto
+Tokyo SE       390192.88
+
+Acción      Cant.
+-----------------
+Honda         530
+Toyota        181
+Mitsubishi   1146
+Mitsubishi    693
+Mitsubishi     30
+
+
+Plazo: 48Hs, Cantidad de Operaciones: 16
+
+Bolsa           Monto
+Frankfurt WB   117816.99
+
+Acción      Cant.
+-----------------
+Basf          106
+Daimler       399
+
+Bolsa           Monto
+NYSE           276007.56
+
+Acción      Cant.
+-----------------
+Fedex         493
+3M            699
+AT&T          429
+Amazon         94
+
+Bolsa           Monto
+Nasdaq         463665.88
+
+Acción      Cant.
+-----------------
+Alphabet      267
+Adobe         787
+Microsoft     835
+Apple         403
+Microsoft     639
+Microsoft     458
+Adobe         774
+Cisco          24
+
+Bolsa           Monto
+Tokyo SE       314066.41
+
+Acción      Cant.
+-----------------
+Toyota       1086
+Toyota        526
+
+
+Plazo: 72Hs, Cantidad de Operaciones: 21
+
+Bolsa           Monto
+Frankfurt WB   408646.78
+
+Acción      Cant.
+-----------------
+Basf          839
+Danone        850
+Danone        608
+Daimler       172
+
+Bolsa           Monto
+NYSE           777740.38
+
+Acción      Cant.
+-----------------
+Fedex         247
+3M           1029
+Coca Cola     818
+Coca Cola     527
+3M             19
+Coca Cola     314
+AT&T          596
+Fedex         358
+
+Bolsa           Monto
+Nasdaq         312456.94
+
+Acción      Cant.
+-----------------
+Adobe         322
+Alphabet     1158
+Adobe         188
+Alphabet      294
+
+Bolsa           Monto
+Tokyo SE       641477.81
+
+Acción      Cant.
+-----------------
+Keyence       982
+Keyence        68
+Honda        1149
+Keyence       605
+Keyence       815
+

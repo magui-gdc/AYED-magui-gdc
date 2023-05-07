@@ -1,0 +1,3 @@
+D:/clion/flujos ejercico 1/cmake-build-debug/CMakeFiles/flujos_ejercico_1.dir
+D:/clion/flujos ejercico 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/flujos ejercico 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

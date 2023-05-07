@@ -1,0 +1,3 @@
+F:/clion/algoritmos 2022/cmake-build-debug/CMakeFiles/algoritmos_2022.dir
+F:/clion/algoritmos 2022/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/clion/algoritmos 2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/clion/simulacro/cmake-build-debug/CMakeFiles/simulacro.dir
+D:/clion/simulacro/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion/simulacro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

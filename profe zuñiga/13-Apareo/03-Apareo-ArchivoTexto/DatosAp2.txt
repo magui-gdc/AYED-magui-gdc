@@ -1,0 +1,8 @@
+Ayacucho	Golf	52
+Chivilcoy	Focus	48
+Chivilcoy	Golf	25
+Mercedes	Golf	13
+Necochea	Golf	116
+Necochea	Golf	122
+Saladillo	Corolla	96
+Saladillo	Focus	81
